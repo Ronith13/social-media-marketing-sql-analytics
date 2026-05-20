@@ -1,4 +1,4 @@
-# 📊 Social Media Marketing Analytics — SQL Portfolio Project
+# 📊 Social Media Marketing Analytics
 
 ## Project Overview
 An end-to-end SQL analytics project simulating a real-world **Marketing Data Analyst** workflow.
