@@ -1,5 +1,12 @@
 # 📊 Social Media Marketing Analytics
 
+End-to-end marketing analytics pipeline built on 6 normalised relational tables in 
+PostgreSQL. Uses advanced SQL (CTEs, window functions, cohort retention queries) to 
+analyse campaign performance, user engagement, and content effectiveness — quantifying 
+ROI in a workflow that mirrors a real-world Marketing Data Analyst role.
+
+**Stack:** SQL, PostgreSQL
+
 ## Project Overview
 An end-to-end SQL analytics project simulating a real-world **Marketing Data Analyst** workflow.
 Analyzes campaign performance, user engagement, content effectiveness, and ROI across social media platforms.
